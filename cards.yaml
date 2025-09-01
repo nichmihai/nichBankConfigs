@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to NichBank cards related PROD APIs"
+  contactDetails:
+    name: "Jonny Foo - PROD Lead"
+    email: "jonny@nichbank.com"
+  onCallSupport:
+    - (502) 004 0004
+    - (502) 005 0005

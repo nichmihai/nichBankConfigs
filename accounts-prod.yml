@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to NichBank accounts related PROD APIs"
+  contactDetails:
+    name: "Dwight Schrutte- Prod Lead"
+    email: "dwight@nichbank.com"
+  onCallSupport:
+    - (502) 100 1001
+    - (502) 201 2011

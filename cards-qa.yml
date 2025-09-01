@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to NichBank cards related QA APIs"
+  contactDetails:
+    name: "Jonny Foo - QA Lead"
+    email: "jonny@nichbank.com"
+  onCallSupport:
+    - (502) 002 0002
+    - (502) 003 0003

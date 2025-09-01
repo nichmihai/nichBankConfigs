@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to NichBank accounts related Local APIs"
+  contactDetails:
+    name: "John Doe-Developer"
+    email: "john@nichbank.com"
+  onCallSupport:
+      - (502) 200 2000
+      - (502) 201 2011

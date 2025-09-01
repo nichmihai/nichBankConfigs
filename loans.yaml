@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to NichBank loans related QA APIs"
+  contactDetails:
+    name: "Samantha Foo - QA Lead"
+    email: "samantha@nichbank.com"
+  onCallSupport:
+    - (502) 007 0007
+    - (502) 008 0008

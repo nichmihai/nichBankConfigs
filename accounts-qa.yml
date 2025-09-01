@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to NichBank accounts related QA APIs"
+  contactDetails:
+    name: "Samantha Foo - QA Lead"
+    email: "samantha@nichbank.com"
+  onCallSupport:
+    - (502) 199 1999
+    - (502) 202 2022
